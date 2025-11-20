@@ -1,0 +1,5 @@
+C:\Users\aungu\Documents\workshop\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aungu\Documents\workshop\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\aungu\Documents\workshop\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\aungu\Documents\workshop\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aungu\Documents\workshop\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json

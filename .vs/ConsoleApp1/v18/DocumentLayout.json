@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aungu\\Documents\\workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F7D62B-F7A6-4E11-A62B-BD2FF3B22E6B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aungu\\documents\\workshop\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F7D62B-F7A6-4E11-A62B-BD2FF3B22E6B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F7D62B-F7A6-4E11-A62B-BD2FF3B22E6B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aungu\\documents\\workshop\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{05F7D62B-F7A6-4E11-A62B-BD2FF3B22E6B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\aungu\\Documents\\workshop\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\aungu\\Documents\\workshop\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-11-20T14:59:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aungu\\Documents\\workshop\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\aungu\\Documents\\workshop\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:26:38.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
